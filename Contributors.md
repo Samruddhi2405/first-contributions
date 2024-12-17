@@ -131,6 +131,7 @@
 - [Felipe Chicaiza](https://github.com/FelipeChicaiza)
 - [Twinkle](https://github.com/Twinkle748)
 - Hi, I'm Anuj.
+- Hi, I'm Samruddhi
 - Zahra
 - ARYAN 
 - [Leaphea](https://github.com/sok-leaphea)
